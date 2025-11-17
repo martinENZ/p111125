@@ -4,3 +4,6 @@ Ezequiel: este es el trabajo que estoy haciendo en la rama de Ezequiel 14/11/25
 con el primer commiy en esta rama
 
 Martin: entoces te confirmo que el mensaje fue recibido desde la rama Martin 17/11/25
+
+Martin: esto quedara por ahora solo en esta rama 20:49 - 17/11/25
+
